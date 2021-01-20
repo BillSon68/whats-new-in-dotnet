@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecordDemostration", "Recor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopLevelPrograms", "TopLevelPrograms\TopLevelPrograms.csproj", "{FA67815A-D6D2-40A0-A225-38EABD09E709}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatternMatching", "PatternMatching\PatternMatching.csproj", "{56434D14-3929-4D4C-A806-77EF07034DEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OtherUpdates", "OtherUpdates\OtherUpdates.csproj", "{E9E605C8-B707-45EA-891A-CD207896A0B3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{FA67815A-D6D2-40A0-A225-38EABD09E709}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA67815A-D6D2-40A0-A225-38EABD09E709}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA67815A-D6D2-40A0-A225-38EABD09E709}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56434D14-3929-4D4C-A806-77EF07034DEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56434D14-3929-4D4C-A806-77EF07034DEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56434D14-3929-4D4C-A806-77EF07034DEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56434D14-3929-4D4C-A806-77EF07034DEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9E605C8-B707-45EA-891A-CD207896A0B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9E605C8-B707-45EA-891A-CD207896A0B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9E605C8-B707-45EA-891A-CD207896A0B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9E605C8-B707-45EA-891A-CD207896A0B3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
